@@ -1,6 +1,6 @@
 # 🎬 Video Analyzer - AI-Powered Video Intelligence Platform
 
-![Video Analyzer Dashboard](https://via.placeholder.com/1200x600/1e293b/ffffff?text=AI+Video+Analysis+in+Action)  
+![Video Analyzer Dashboard](https://github.com/W3JDev/VA-AI-Powered-Demo-Video-in-minutes/blob/Lets-Coin/VA-HOME.png)  
 *Interactive video analysis dashboard with AI insights (screenshot placeholder)*
 
 [![React Version](https://img.shields.io/badge/React-19-blue?logo=react)](https://react.dev)
