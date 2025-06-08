@@ -11,6 +11,10 @@
 
 **Video Analyzer** transforms video content into actionable intelligence using Google's Gemini AI. Extract insights, generate summaries, visualize trends, and navigate media with unprecedented precision through our AI-powered analysis platform.
 
+## Features & Quick Guide
+![Feature & Quice Guide Overview](https://github.com/W3JDev/VA-AI-Powered-Demo-Video-in-minutes/blob/Lets-Coin/VA-Feature%2Bquickguide.png)
+
+## FreameWork
 ```mermaid
 graph TD
     A[Video Upload] --> B{Gemini AI Processing}
